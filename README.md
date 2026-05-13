@@ -39,6 +39,8 @@ GBLP proposes a practical, evolution-ready global monetary architecture that sol
 - [Governance Charter (Draft)](docs/charter.md)
 - [FAQ – Counterarguments & Responses](docs/faq.md)
 - [中文版文档](docs/zh/)
+- - [Eternal Coin Declaration](docs/attachments/eternal-coin.md)
+- [Emergency Trigger Contract](docs/smart-contracts/EmergencyTrigger.sol) (conceptual)
 
 ## License
 
