@@ -53,3 +53,6 @@
 - Each region operates a liquidity pool collateralized by GSC.
 - Exchange rate = algorithm based on region’s CPI, unemployment, fiscal deficit, and pool depth.
 - A 0.1% “solidarity tax” is deducted on each exchange to fund the EBW.
+## 8. Eternal Coin Index
+
+To quantify the principles of “Integrity of Earth, Safety of Humanity, Permanence of Public Trust”, the system computes a real‑time composite index called the **Ξ‑Index** (Eternal Coin Index), ranging from 0 to 100. The formula is:
