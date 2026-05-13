@@ -56,3 +56,12 @@
 ## 8. Eternal Coin Index
 
 To quantify the principles of “Integrity of Earth, Safety of Humanity, Permanence of Public Trust”, the system computes a real‑time composite index called the **Ξ‑Index** (Eternal Coin Index), ranging from 0 to 100. The formula is:
+Ξ-Index = 0.4 × (Climate Health Index) + 0.3 × (Global Peace Index) + 0.3 × (Trust & Transparency Index)
+
+Where:
+
+- **Climate Health Index** (0–100): derived from global average temperature rise, sea level acceleration, share of renewable energy, etc. Data provided by IPCC and WMO, mapped to a score where higher is better.
+- **Global Peace Index** (0–100): based on annual civilian deaths from armed conflicts, number of refugees, nuclear weapons status, etc. Data from the International Peace Institute, inverted (fewer deaths → higher score).
+- **Trust & Transparency Index** (0–100): composed of the Corruption Perceptions Index, Press Freedom Index, and blockchain public ledger audit coverage. Calculated by independent third‑party auditors.
+
+The Ξ‑Index is updated daily and publicly displayed on the GBLP official website. If the Ξ‑Index falls below 30 for 30 consecutive days, the **Eternal Coin Review Period** (see Charter Article 0.2) is automatically triggered. Furthermore, the index acts as a veto factor for adjustments to the GSC real‑goods basket: when Ξ‑Index < 50, any proposal to add a high‑pollution commodity automatically enters a 12‑month freeze period.
